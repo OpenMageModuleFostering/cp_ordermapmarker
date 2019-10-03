@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/CP_Ordermapmarker",
+    "name": "openmage-module-fostering\/cp_ordermapmarker",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This module shows Order Shipping Address as a Marker in Maps using Google Fusion Table Application.",
     "authors": [
